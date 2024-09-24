@@ -1,6 +1,19 @@
 #div {
-    font-family: monospace;
+    font-family: Verdana;
     font-size: 35pt;
     background: linear-gradient(45deg,red,yellow);
+    border: 2px solid black;
+    border-radius: 10px;
+}
 
+#ds {
+    background: #ff5e00;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    position: fixed;
+    margin-left: 20px auto;
+    font-family: Verdana;
+    font-size: 35pt;
 }
